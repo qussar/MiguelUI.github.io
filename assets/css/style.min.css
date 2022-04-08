@@ -374,7 +374,7 @@ legend {
 }
 .btn--download::before {
   content: "";
-  background-image: url(../images/icons/download.svg);
+  background-image: url(../assets/images/icons/download.svg);
   position: absolute;
   width: 20px;
   height: 20px;
