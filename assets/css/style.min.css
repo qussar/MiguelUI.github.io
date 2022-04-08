@@ -391,6 +391,10 @@ legend {
     font-size: 34px;
     line-height: 40px;
     padding-bottom: 17px;
+  
+  }
+  .home__inner-title span::before {
+    top: 2px;
   }
 
   .home__inner-subtitle {
